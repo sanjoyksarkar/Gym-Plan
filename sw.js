@@ -1,5 +1,5 @@
 /* Momentum Gym offline app-shell service worker. Data stays in localStorage. */
-const CACHE_NAME = 'momentum-gym-app-v2';
+const CACHE_NAME = 'momentum-gym-app-v3';
 const APP_SHELL = [
   './', './index.html', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png',
